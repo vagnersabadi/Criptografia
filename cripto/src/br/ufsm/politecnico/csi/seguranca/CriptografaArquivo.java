@@ -8,6 +8,9 @@ import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
 import java.security.spec.KeySpec;
 
+/**
+ * Created by cpol on 22/03/2017.
+ */
 public class CriptografaArquivo {
 
 
